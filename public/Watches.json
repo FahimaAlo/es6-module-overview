@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Leather Watch",
+      "price": 75.99
+    },
+    {
+      "id": 2,
+      "name": "Digital Sports Watch",
+      "price": 59.49
+    },
+    {
+      "id": 3,
+      "name": "Luxury Automatic Watch",
+      "price": 150.00
+    },
+    {
+      "id": 4,
+      "name": "Minimalist Steel Watch",
+      "price": 90.25
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch Pro",
+      "price": 120.00
+    }
+  ]
+  
